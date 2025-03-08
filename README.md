@@ -32,5 +32,5 @@ The repository is organized into daily notebooks, each containing a mix of examp
 To get started, clone the repository and navigate to the directory:
 
 ```sh
-git clone https://github.com/your-username/Python-Exercises-in-15-Days.git
+git clone https://github.com/iyuendale/Python-Exercises-in-15-Days.git
 cd Python-Exercises-in-15-Days
