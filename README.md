@@ -9,6 +9,10 @@ The repository is organized into daily notebooks, each containing a mix of examp
 - `Day_1.ipynb`: Introduction and Setup
 - `Day_2.ipynb`: Variables and Data Types
 - `Day_3.ipynb`: Control Flow and Loops
+- `Day_4.ipynb`: Functions
+- `Day_5.ipynb`: String Manipulation
+- `Day_6.ipynb`: Lists and Tuples
+- `Day_7.ipynb`: Dictionaries and Sets
 - ...
 
 ## How to Use
