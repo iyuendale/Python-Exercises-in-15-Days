@@ -1,0 +1,3 @@
+Welcome to Day 8 of 15 days Python practice.
+This is demo text file for Q1.
+Keep going.
