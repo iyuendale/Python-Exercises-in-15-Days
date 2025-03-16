@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "name": "John Doe",
+            "customer_id": "C001",
+            "age": 30,
+            "employment": "Software Engineer"
+        },
+        {
+            "name": "Jane Smith",
+            "customer_id": "C002",
+            "age": 25,
+            "employment": "Data Scientist"
+        },
+        {
+            "name": "Emily Johnson",
+            "customer_id": "C003",
+            "age": 35,
+            "employment": "Product Manager"
+        }
+    ]
+}
