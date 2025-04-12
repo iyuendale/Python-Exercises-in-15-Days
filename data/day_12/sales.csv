@@ -1,0 +1,11 @@
+Date,Product,Region,Salesperson,Units Sold,Unit Price,Total Sales
+2023-01-01,Widget A,North,John Doe,10,25.00,250.00
+2023-01-02,Widget B,South,Jane Smith,15,30.00,450.00
+2023-01-03,Widget C,East,Emily Davis,8,20.00,160.00
+2023-01-04,Widget A,West,Michael Brown,12,25.00,300.00
+2023-01-05,Widget B,North,Chris Wilson,20,30.00,600.00
+2023-01-06,Widget C,South,Patricia Johnson,5,20.00,100.00
+2023-01-07,Widget A,East,Robert Garcia,18,25.00,450.00
+2023-01-08,Widget B,West,Linda Martinez,10,30.00,300.00
+2023-01-09,Widget C,North,James Anderson,7,20.00,140.00
+2023-01-10,Widget A,South,Susan Lee,14,25.00,350.00
