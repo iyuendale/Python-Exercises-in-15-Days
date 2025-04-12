@@ -1,0 +1,39 @@
+{
+    "sales": [
+        {
+            "id": 1,
+            "product": "Laptop",
+            "quantity": 5,
+            "price": 1200,
+            "date": "2023-10-01"
+        },
+        {
+            "id": 2,
+            "product": "Smartphone",
+            "quantity": 10,
+            "price": 800,
+            "date": "2023-10-02"
+        },
+        {
+            "id": 3,
+            "product": "Tablet",
+            "quantity": 7,
+            "price": 500,
+            "date": "2023-10-03"
+        },
+        {
+            "id": 4,
+            "product": "Headphones",
+            "quantity": 15,
+            "price": 150,
+            "date": "2023-10-04"
+        },
+        {
+            "id": 5,
+            "product": "Monitor",
+            "quantity": 3,
+            "price": 300,
+            "date": "2023-10-05"
+        }
+    ]
+}
